@@ -7,12 +7,12 @@ Algorithm challenges are made on HackerRank using Python.
 
 Data Science and Machine Learning challenges are made on Kaggle using Python too.
 
-## [Kaggle Bike Sharing](https://github.com/alexattia/Data-Science-Projects/tree/master/KaggleBikeSharing)
+## [Name.py usssss](https://github.com/ATSGlobe/DataScienceTraining/blob/main/alka/name.py)
 The goal of this challenge is to build a model that predicts the count of bike shared, exclusively based on contextual features. The first part of this challenge was aimed to understand, to analyse and to process those dataset. I wanted to produce meaningful information with plots. The second part was to build a model and use a Machine Learning library in order to predict the count.
 
 -->[French Explanations PDF](https://github.com/alexattia/Data-Science-Projects/blob/master/KaggleBikeSharing/Kaggle_BikeSharing_Explanations_French.pdf)
 
-## [Twitter Parsing](https://github.com/alexattia/Data-Science-Projects/tree/master/TwitterParsing)
+## [Amazon Parsing](https://github.com/ATSGlobe/DataScienceTraining/blob/main/alka/amazon)
 
 I've recently discovered the Chris Albon Machine Learning flash cards and I want to download those flash cards but the official Twitter API has a limit rate of 2 weeks old tweets so I had to find a way to bypass this limitation : use Selenium and PhantomJS.
 Purpose of this project : Check every 2 hours, if he posted new flash cards. In this case, download them and send me a summary email.
